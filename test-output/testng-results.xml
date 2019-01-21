@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-21T00:26:42Z" name="Default suite" finished-at="2019-01-21T00:27:57Z" duration-ms="74993">
+    <groups>
+    </groups>
+    <test started-at="2019-01-21T00:26:42Z" name="Default test" finished-at="2019-01-21T00:27:57Z" duration-ms="74993">
+      <class name="lppackage.LpPoCTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:26:42Z" name="beforeTest" finished-at="2019-01-21T11:26:56Z" duration-ms="13578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyLandingPageTitle()[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:26:56Z" name="verifyLandingPageTitle" finished-at="2019-01-21T11:27:04Z" duration-ms="8051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPageTitle -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:04Z" name="getResult" finished-at="2019-01-21T11:27:04Z" duration-ms="436" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLandingPageTitle status=SUCCESS method=LpPoCTest.verifyLandingPageTitle()[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="enteringLEARNING_GOALS()[pri:1, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:04Z" name="enteringLEARNING_GOALS" finished-at="2019-01-21T11:27:12Z" duration-ms="8029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringLEARNING_GOALS -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:12Z" name="getResult" finished-at="2019-01-21T11:27:13Z" duration-ms="408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enteringLEARNING_GOALS status=SUCCESS method=LpPoCTest.enteringLEARNING_GOALS()[pri:1, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyNoPracticeAssigned()[pri:3, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:13Z" name="verifyNoPracticeAssigned" finished-at="2019-01-21T11:27:16Z" duration-ms="3160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNoPracticeAssigned -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:16Z" name="getResult" finished-at="2019-01-21T11:27:16Z" duration-ms="376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNoPracticeAssigned status=SUCCESS method=LpPoCTest.verifyNoPracticeAssigned()[pri:3, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="assginPracticeVia_PRACTICE_ASSIGNMENT()[pri:4, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:16Z" name="assginPracticeVia_PRACTICE_ASSIGNMENT" finished-at="2019-01-21T11:27:22Z" duration-ms="5816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assginPracticeVia_PRACTICE_ASSIGNMENT -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:22Z" name="getResult" finished-at="2019-01-21T11:27:23Z" duration-ms="390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=assginPracticeVia_PRACTICE_ASSIGNMENT status=SUCCESS method=LpPoCTest.assginPracticeVia_PRACTICE_ASSIGNMENT()[pri:4, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyNextPracticeHistSummary()[pri:5, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:23Z" name="verifyNextPracticeHistSummary" finished-at="2019-01-21T11:27:27Z" duration-ms="4250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNextPracticeHistSummary -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:27Z" name="getResult" finished-at="2019-01-21T11:27:27Z" duration-ms="368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNextPracticeHistSummary status=SUCCESS method=LpPoCTest.verifyNextPracticeHistSummary()[pri:5, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="drawOnCanvasWithPen()[pri:6, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:27Z" name="drawOnCanvasWithPen" finished-at="2019-01-21T11:27:34Z" duration-ms="7047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drawOnCanvasWithPen -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:34Z" name="getResult" finished-at="2019-01-21T11:27:35Z" duration-ms="388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=drawOnCanvasWithPen status=SUCCESS method=LpPoCTest.drawOnCanvasWithPen()[pri:6, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="undoFunctionalities()[pri:7, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:35Z" name="undoFunctionalities" finished-at="2019-01-21T11:27:37Z" duration-ms="2281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- undoFunctionalities -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:37Z" name="getResult" finished-at="2019-01-21T11:27:37Z" duration-ms="416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=undoFunctionalities status=SUCCESS method=LpPoCTest.undoFunctionalities()[pri:7, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="zoomFunctionalities()[pri:8, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:37Z" name="zoomFunctionalities" finished-at="2019-01-21T11:27:41Z" duration-ms="3353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zoomFunctionalities -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:41Z" name="getResult" finished-at="2019-01-21T11:27:41Z" duration-ms="383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=zoomFunctionalities status=SUCCESS method=LpPoCTest.zoomFunctionalities()[pri:8, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="ChatFunctionality()[pri:9, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:41Z" name="ChatFunctionality" finished-at="2019-01-21T11:27:46Z" duration-ms="5182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChatFunctionality -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:46Z" name="getResult" finished-at="2019-01-21T11:27:47Z" duration-ms="392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ChatFunctionality status=SUCCESS method=LpPoCTest.ChatFunctionality()[pri:9, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="submitingLEARNING_REFLECTION()[pri:10, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:47Z" name="submitingLEARNING_REFLECTION" finished-at="2019-01-21T11:27:54Z" duration-ms="7684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitingLEARNING_REFLECTION -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:54Z" name="getResult" finished-at="2019-01-21T11:27:55Z" duration-ms="391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=submitingLEARNING_REFLECTION status=SUCCESS method=LpPoCTest.submitingLEARNING_REFLECTION()[pri:10, instance:lppackage.LpPoCTest@7c1e2a9e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:lppackage.LpPoCTest@7c1e2a9e]" started-at="2019-01-21T11:27:55Z" name="afterTest" finished-at="2019-01-21T11:27:57Z" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- lppackage.LpPoCTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
